@@ -53,4 +53,15 @@ An Ecommerce website which supports all features and payment integration with ra
 └── ...
 ```
 ### Models layout
-
+```
+.        
+├── accounts           
+│   ├── Profile
+|   |   |--
+│   ├── migrations      
+│   ├── __init__          
+│   ├── tests.py         
+|   ├── urls.py             
+|   ├── models.py           
+└── ...
+```
