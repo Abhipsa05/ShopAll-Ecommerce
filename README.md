@@ -17,6 +17,7 @@ An Ecommerce website which supports all features and payment integration with ra
 ```
 
 ### Main App layout
+```
 .                           .
 ├── ...                     ├── ...
 ├── accounts                ├── product   
@@ -29,6 +30,6 @@ An Ecommerce website which supports all features and payment integration with ra
 |   ├── views.py         
 │   └── ...                
 └── ...
-
+```
 ### Models layout
 
