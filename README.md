@@ -5,10 +5,6 @@
 *	Created a mailing system for email authentication and sending customer invoice of their purchase.
 *	Implemented payment gateway for placing orders using Razorpay.
 
-
-### Tech Stacks Used
-
-
 ### Features
 
 - Profile:
@@ -73,7 +69,8 @@
 |   ├── models.py           
 └── ...
 ```
-Snippets of pages of the website
+### Snippets of pages of the website
+
 ![Screenshot (5168)](https://user-images.githubusercontent.com/79036782/178137552-ef405860-e01e-4d0c-b213-0a8d501250c6.png)
 ![Screenshot (5182)](https://user-images.githubusercontent.com/79036782/178137527-56202640-12a9-460e-853e-6a83257faabd.png)
 ![Screenshot (5177)](https://user-images.githubusercontent.com/79036782/178137536-4fa7b596-bdbd-4bc8-9454-efc218cf90a8.png)
