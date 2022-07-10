@@ -76,7 +76,6 @@
 Snippets of pages of the website
 ![Screenshot (5168)](https://user-images.githubusercontent.com/79036782/178137552-ef405860-e01e-4d0c-b213-0a8d501250c6.png)
 ![Screenshot (5182)](https://user-images.githubusercontent.com/79036782/178137527-56202640-12a9-460e-853e-6a83257faabd.png)
-![Screenshot (5176)](https://user-images.githubusercontent.com/79036782/178137531-117c7210-1199-4477-814e-65e63fc86d72.png)
 ![Screenshot (5177)](https://user-images.githubusercontent.com/79036782/178137536-4fa7b596-bdbd-4bc8-9454-efc218cf90a8.png)
 ![Screenshot (5179)](https://user-images.githubusercontent.com/79036782/178137542-4bd19862-08c0-4406-ba47-1394ba9f0f90.png)
 ![Screenshot (5178)](https://user-images.githubusercontent.com/79036782/178137545-d6555e0d-6a4c-477d-b74e-7d0059be39d0.png)
